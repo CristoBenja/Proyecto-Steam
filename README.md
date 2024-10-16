@@ -1,4 +1,4 @@
-Simulación de Data Scientist en Steam<br>
+Simulación de Data Scientist en Steam<br><br>
 Descripción:<br>
 Este proyecto simula el trabajo de un Data Scientist en la empresa Steam, con el objetivo de analizar datos de la 
 plataforma, realizar una limpieza de datos, crear una API, explorar los datos a través de un Análisis Exploratorio (EDA) y 
@@ -49,5 +49,8 @@ trabajo en ciencia de datos. <br><br>
 
 Licencia: Código abierto. <br><br>
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi perfil de GitHub.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi perfil de GitHub. <br><br>
+
+
+Link del video: https://www.youtube.com/watch?v=SXYbDvxgFkA
 
